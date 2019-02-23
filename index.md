@@ -2,4 +2,4 @@
 ###论文
 ### Small image
 
-![Octocat](https://flybeartony.github.io/IMG_20180814_231225.jpg)
+![Octocat](https://flybeartony.github.io/myphoto.png)
